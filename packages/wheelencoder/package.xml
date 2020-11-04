@@ -1,0 +1,11 @@
+<package>
+  <name>wheelencoder</name>
+  <version>0.1.0</version>
+  <description>
+  Get wheel encoder data and convert it to driving distance. ROS node for AMoD RH5 exercise 27-28 
+  </description>
+  <maintainer email="yuesli@student.ethz.ch">Yueshan Li</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
